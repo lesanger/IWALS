@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\c540\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\private\\dialoguebuilderblueprint.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\c540\\intermediate\\build\\win64\\x64\\c540editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialoguebuilder\\definitions.dialoguebuilder.h",
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\public\\dialoguebuilderblueprint.h",
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\unrealeditor\\inc\\dialoguebuilder\\uht\\dialoguebuilderblueprint.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

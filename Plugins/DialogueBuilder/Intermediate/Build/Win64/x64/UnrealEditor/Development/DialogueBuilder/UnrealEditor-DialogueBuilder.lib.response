@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DialogueBuilder.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\A520\Intermediate\Build\Win64\x64\A520Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"D:\A520\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\Module.DialogueBuilder.cpp.obj"
+"D:\A520\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\Default.rc2.res"
+/OUT:"D:\A520\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\UnrealEditor-DialogueBuilder.lib"

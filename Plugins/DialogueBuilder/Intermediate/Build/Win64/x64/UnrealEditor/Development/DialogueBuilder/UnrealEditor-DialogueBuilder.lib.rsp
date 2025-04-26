@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DialogueBuilder.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE\C540\Intermediate\Build\Win64\x64\C540Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\UE\C540\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\Module.DialogueBuilder.cpp.obj"
+"E:\UE\C540\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\DialogueBuilder.cpp.obj"
+"E:\UE\C540\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\DialogueBuilderBlueprint.cpp.obj"
+"E:\UE\C540\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\DialogueBuilderObject.cpp.obj"
+"E:\UE\C540\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\Default.rc2.res"
+/OUT:"E:\UE\C540\Plugins\DialogueBuilder\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueBuilder\UnrealEditor-DialogueBuilder.lib"

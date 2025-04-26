@@ -1,0 +1,36 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogueBuilderEditor.cpp.obj": [
+			"CommentNodeDB.gen.cpp.obj",
+			"DialogueBuilderEdGraph.gen.cpp.obj",
+			"DialogueBuilderEditor.init.gen.cpp.obj",
+			"DialogueBuilderFactory.gen.cpp.obj",
+			"DialogueBuilderGraphSchema.gen.cpp.obj",
+			"DialogueBuilderGSchemaActions.gen.cpp.obj",
+			"EntryNodeDB.gen.cpp.obj",
+			"StateNodeDB.gen.cpp.obj",
+			"TransitionNodeDB.gen.cpp.obj",
+			"DialogueBuilderActions.cpp.obj",
+			"DialogueBuilderApplicationMode.cpp.obj",
+			"DialogueBuilderCustomEditor.cpp.obj",
+			"DialogueBuilderEditorModule.cpp.obj",
+			"DialogueBuilderEdTabFactories.cpp.obj",
+			"DialogueBuilderFactory.cpp.obj",
+			"DialogueBuilderGraphCommands.cpp.obj",
+			"DialogueBGraphConnectionDrawingPolicy.cpp.obj",
+			"DialogueBuilderEdGraph.cpp.obj",
+			"DialogueBuilderGraphFactories.cpp.obj",
+			"DialogueBuilderGraphSchema.cpp.obj",
+			"DialogueBuilderGSchemaActions.cpp.obj",
+			"CommentNodeDB.cpp.obj",
+			"EntryNodeDB.cpp.obj",
+			"GraphNodeCommentDB.cpp.obj",
+			"GraphNodeEntry.cpp.obj",
+			"GraphNodeState.cpp.obj",
+			"GraphNodeTransition.cpp.obj",
+			"StateNodeDB.cpp.obj",
+			"TransitionNodeDB.cpp.obj"
+		]
+	}
+}

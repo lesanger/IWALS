@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\c540\\plugins\\dialoguebuilder\\source\\dialoguebuildereditor\\private\\graphs\\dialoguebuilderedgraph.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\c540\\intermediate\\build\\win64\\x64\\c540editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialoguebuildereditor\\definitions.dialoguebuildereditor.h",
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\source\\dialoguebuildereditor\\public\\graphs\\dialoguebuilderedgraph.h",
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\public\\dialoguebuilderobject.h",
+            "d:\\epic\\ue\\ue_5.4\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "d:\\epic\\ue\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h",
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\unrealeditor\\inc\\dialoguebuilder\\uht\\dialoguebuilderobject.generated.h",
+            "d:\\epic\\ue\\ue_5.4\\engine\\source\\runtime\\engine\\public\\grapheditaction.h",
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\unrealeditor\\inc\\dialoguebuildereditor\\uht\\dialoguebuilderedgraph.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

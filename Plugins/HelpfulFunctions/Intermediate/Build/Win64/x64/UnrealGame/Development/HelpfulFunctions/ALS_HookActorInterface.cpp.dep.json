@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue - projects\\ue5.4\\iwals (version 3.3) 5.4\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\private\\als_hookactorinterface.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue - projects\\ue5.4\\iwals (version 3.3) 5.4\\intermediate\\build\\win64\\x64\\interaction_with_als\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue - projects\\ue5.4\\iwals (version 3.3) 5.4\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "d:\\ue - projects\\ue5.4\\iwals (version 3.3) 5.4\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_hookactorinterface.h",
+            "d:\\ue - projects\\ue5.4\\iwals (version 3.3) 5.4\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\uht\\als_hookactorinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

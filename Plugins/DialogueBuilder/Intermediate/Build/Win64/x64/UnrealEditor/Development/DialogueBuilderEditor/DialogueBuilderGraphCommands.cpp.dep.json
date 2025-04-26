@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue\\c540\\plugins\\dialoguebuilder\\source\\dialoguebuildereditor\\private\\dialoguebuildergraphcommands.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue\\c540\\intermediate\\build\\win64\\x64\\c540editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialoguebuildereditor\\definitions.dialoguebuildereditor.h",
+            "e:\\ue\\c540\\plugins\\dialoguebuilder\\source\\dialoguebuildereditor\\public\\dialoguebuildergraphcommands.h",
+            "d:\\epic\\ue\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\commands\\genericcommands.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
