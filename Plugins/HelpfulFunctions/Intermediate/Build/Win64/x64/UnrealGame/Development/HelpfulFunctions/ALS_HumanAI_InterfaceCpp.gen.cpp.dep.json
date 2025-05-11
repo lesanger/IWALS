@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\syzis\\iwals\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\uht\\als_humanai_interfacecpp.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\syzis\\iwals\\intermediate\\build\\win64\\x64\\interaction_with_als\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\syzis\\iwals\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "c:\\users\\syzis\\iwals\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_humanai_interfacecpp.h",
+            "c:\\users\\syzis\\iwals\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\uht\\als_humanai_interfacecpp.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

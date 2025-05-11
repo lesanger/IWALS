@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogueBuilder.cpp.obj": [
+			"DialogueBuilder.init.gen.cpp.obj",
+			"DialogueBuilderBlueprint.gen.cpp.obj",
+			"DialogueBuilderObject.gen.cpp.obj",
+			"DialogueBuilder.cpp.obj",
+			"DialogueBuilderBlueprint.cpp.obj",
+			"DialogueBuilderObject.cpp.obj"
+		]
+	}
+}

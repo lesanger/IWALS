@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\syzis\\iwals\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\uht\\als_humanai_controllercpp.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\syzis\\iwals\\intermediate\\build\\win64\\x64\\interaction_with_als\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\syzis\\iwals\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\x64\\unrealgame\\development\\helpfulfunctions\\definitions.helpfulfunctions.h",
+            "c:\\users\\syzis\\iwals\\plugins\\helpfulfunctions\\source\\helpfulfunctions\\public\\als_humanai_controllercpp.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navagentselector.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\navagentselector.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytasks\\classes\\gameplaytaskownerinterface.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytasks\\public\\gameplaytasktypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytasks\\uht\\gameplaytaskownerinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\gameplaytasks\\classes\\gameplaytask.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\gameplaytasks\\uht\\gameplaytask.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\behaviortreetypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\behaviortree\\blackboard\\blackboardkey.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\behaviortreetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptiontypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\aimodule\\uht\\aiperceptiontypes.generated.h",
+            "c:\\users\\syzis\\iwals\\plugins\\helpfulfunctions\\intermediate\\build\\win64\\unrealgame\\inc\\helpfulfunctions\\uht\\als_humanai_controllercpp.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

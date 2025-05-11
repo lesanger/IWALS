@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\syzis\\iwals\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\uht\\jwan_posesnapshotlogic.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\syzis\\iwals\\intermediate\\build\\win64\\x64\\interaction_with_als\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\syzis\\iwals\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\x64\\unrealgame\\development\\jakubanimnodestool\\definitions.jakubanimnodestool.h",
+            "c:\\users\\syzis\\iwals\\plugins\\jakubanimnodes\\source\\jakubanimnodestool\\public\\jwan_posesnapshotlogic.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\animation\\animinstanceproxy.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\animation\\animtrace.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\objecttrace.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\tracefilter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\objecttrace.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\animation\\animattributes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animinstanceproxy.generated.h",
+            "c:\\users\\syzis\\iwals\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\uht\\jwan_posesnapshotlogic.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\x64\\unrealgame\\development\\dialoguebuilder\\module.dialoguebuilder.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\syzis\\iwals\\intermediate\\build\\win64\\x64\\interaction_with_als\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\x64\\unrealgame\\development\\dialoguebuilder\\definitions.dialoguebuilder.h",
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\private\\dialoguebuilder.cpp",
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\public\\dialoguebuilder.h",
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\private\\dialoguebuilderblueprint.cpp",
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\public\\dialoguebuilderblueprint.h",
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\unrealgame\\inc\\dialoguebuilder\\uht\\dialoguebuilderblueprint.generated.h",
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\private\\dialoguebuilderobject.cpp",
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\source\\dialoguebuilder\\public\\dialoguebuilderobject.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h",
+            "c:\\users\\syzis\\iwals\\plugins\\dialoguebuilder\\intermediate\\build\\win64\\unrealgame\\inc\\dialoguebuilder\\uht\\dialoguebuilderobject.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\syzis\\iwals\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\uht\\posesnapshotlibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\syzis\\iwals\\intermediate\\build\\win64\\x64\\interaction_with_als\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\syzis\\iwals\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\x64\\unrealgame\\development\\jakubanimnodestool\\definitions.jakubanimnodestool.h",
+            "c:\\users\\syzis\\iwals\\plugins\\jakubanimnodes\\source\\jakubanimnodestool\\public\\posesnapshotlibrary.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\animation\\animexecutioncontext.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animexecutioncontext.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\animation\\animnodereference.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animnodereference.generated.h",
+            "c:\\users\\syzis\\iwals\\plugins\\jakubanimnodes\\intermediate\\build\\win64\\unrealgame\\inc\\jakubanimnodestool\\uht\\posesnapshotlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
